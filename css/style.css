@@ -1,0 +1,40 @@
+@import url(../css/header/kabir/kabir.css);
+@import url(../css/header/agensy/agensy.css);
+@import url(../css/main/suffix/suffix.css);
+@import url(../css/main/change/change.css);
+@import url(../css/main/mode/mode.css);
+@import url(../css/main/vector/vector.css);
+@import url(../css/main/contact/contact.css);
+@import url(../css/fonts.css);
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--font);
+    margin: 0;
+}
+:root{
+    --font: 'Montserrat'
+}
+
+ul, li {
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.container{
+    max-width: 1330px;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+
+}
+

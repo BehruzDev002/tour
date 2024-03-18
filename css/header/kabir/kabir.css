@@ -1,0 +1,83 @@
+.navigation__content-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navigation__content-pictur span {
+  margin-left: 10px;
+}
+.navigation__content-picture {
+  margin-right: 10px;
+}
+.navigation__content-blocks {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.navigation__content-blocks i {
+  font-size: 30px;
+}
+.navigation__content-blocks span {
+  height: 50px;
+  font-size: 35px;
+  margin-top: 20px;
+  margin-left: 20px;
+  border: 1px solid #CE0164;
+}
+.navigation__content-blocks h3 {
+  width: 328px;
+  font-size: 17px;
+  font-weight: 700;
+  color: #494949;
+}
+.navigation__content-block {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.navigation__content-block span {
+  height: 50px;
+  border: 2px solid #CE0164;
+  font-size: 35px;
+  margin-left: 10px;
+}
+.navigation__content-block i {
+  font-size: 25px;
+}
+.navigation__content-phone {
+  margin-left: 20px;
+}
+.navigation__content-phone a {
+  color: #494949;
+  font-size: 20px;
+  font-weight: 600;
+}
+.navigation__content-btn {
+  width: 132px;
+  height: 33px;
+  border-radius: 100px;
+  border: none;
+  background-color: #CE0164;
+  color: #fff;
+}
+.navigation__content-list {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: 50px;
+}
+.navigation__content-tour {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+}
+.navigation__content-list li {
+  margin-right: 15px;
+}
+.navigation__content-tour img {
+  width: 640px;
+  height: 279px;
+}
+.navigation__content-list a {
+  color: #444444;
+}/*# sourceMappingURL=kabir.css.map */

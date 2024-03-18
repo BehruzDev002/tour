@@ -1,0 +1,111 @@
+.contact {
+    margin-top: 100px;
+
+    &__content-blocks h3 {
+        font-size: 44px;
+        font-weight: 600;
+        color: #444444;
+        text-align: center;
+    }
+
+    &__content-block {
+        margin-top: 30px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+
+    &__content-block i {
+        font-size: 40px;
+        color: #3331A2;
+    }
+
+    &__content-code {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    &__content-code p{
+        width: 270px;
+        line-height: 21px;
+        color: #3A3A3A;
+        margin-top: 10px;
+    }
+
+    &__content-export{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    &__content-export p{
+       width: 130px;
+       margin-top: 10px;
+       text-align: center;
+    }
+
+    &__content-dev{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    &__content-dev p{
+        margin-top: 10px;
+        width: 248px;
+        text-align: center;
+        line-height: 21px;
+    }
+
+    &__content-speeds{
+        margin-top: 100px;  
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    &__content-contact h3{
+        width: 544px;
+        font-size: 24px;
+        font-weight: 500;
+    }
+
+    &__content-contact span{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 400px;
+        border: 2px solid #000;
+        background-color: #0000;
+        margin-bottom: 10px;
+    }
+
+    &__content-arrow{
+        margin-top: 50px;
+    }
+
+    &__content-arrow h4{
+        font-size: 19px;
+        font-weight: 400;
+        color: #ACACAC;
+        margin-bottom: 10px;
+    }
+
+    &__content-contact button{
+        width: 546px;
+        height: 52px;
+        background-color: #3331A2;
+        border: none;
+        color: #fff;
+        border-radius: 10px;
+        font-size: 19px;
+        font-weight: 600;
+        margin-top: 30px;
+    }
+
+
+}
